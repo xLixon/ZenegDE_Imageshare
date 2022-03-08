@@ -1,0 +1,39 @@
+/*
+div.container {
+    border: 1px black solid;
+    width: 50%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background: grey;
+}
+
+div.container > h1 {
+    color: white;
+}
+
+html {
+    background-color: #999;
+    text-align: center;
+    font-family: Arial;
+}
+
+button.submit {
+    border: 1px #666 solid;
+    border-radius: 7px;
+    font-size: 15px;
+    width: 10%;
+    height: 5%;
+}
+
+input.text {
+    font-size: 15px;
+    width: 20%;
+    height: 5%;
+}*/
+
+
+html{
+    backgrond-color: white;
+}
